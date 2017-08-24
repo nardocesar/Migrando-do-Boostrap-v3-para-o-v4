@@ -2,4 +2,5 @@
 <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?style=flat-square">
 <p>Repositório criado para ajudar a comunidade na transição de uma versão para outra do Bootstrap em PT-BR.</p>
 <p>Para cada tópico será criada uma pasta aqui nesse repositório contendo link para o vídeo e código-fonte (caso haja).</p>
-<small style="font-size:10px">** Crie uma issue em caso de dúvida ;)</small>
+<h1>Dúvidas?</h1>
+<p>Crie uma issue se tiver alguma dúvida :)</p>
